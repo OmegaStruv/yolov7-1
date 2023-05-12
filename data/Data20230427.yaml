@@ -1,0 +1,8 @@
+# Dataset
+train: data/Dataset20230427/images/train
+val: data/Dataset20230427/images/val
+test: data/Dataset20230427/images/test
+
+nc: 10
+
+names: ['Chocolatos','Energen','GoodDay','LuoHanGuo','Milo','Spearmint','TolakAngin','Decolgen','Diatabs','Promag']

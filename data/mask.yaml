@@ -1,0 +1,8 @@
+# Dataset
+train: data/mask_dataset/images/train
+val: data/mask_dataset/images/val
+test: data/mask_dataset/images/test
+
+nc: 3
+
+names: ['Mask','No Mask','Bad Mask']
